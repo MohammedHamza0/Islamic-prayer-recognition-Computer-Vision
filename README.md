@@ -30,8 +30,7 @@ The project requires the following libraries:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/MohammedHamza0/IslamicPrayerPoseDetection.git
-   cd IslamicPrayerPoseDetection
+   git clone https://github.com/MohammedHamza0/Islamic-prayer-recognition-Computer-Vision.git
    ```
 
 2. **Install dependencies**:
