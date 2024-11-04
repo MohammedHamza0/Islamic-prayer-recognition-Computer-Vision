@@ -9,7 +9,7 @@ This project utilizes YOLO (You Only Look Once) object detection and computer vi
   - Raising (قائم)
   - Bowing (راكع)
   - Sujud (ساجد)
-  - Tashahhud (التشاهد)
+  - Tashahhud (التشهد)
   - Takbeer (تكبير)
 - **Dynamic Arabic Text Overlay**: Displays posture names in Arabic, reshaped and rendered using `arabic-reshaper` and `PIL` for accurate display.
 - **Ruku Count**: The system automatically tracks and counts the number of "Ruku" (bowing) positions held for a specified time.
